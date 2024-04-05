@@ -9,8 +9,8 @@
 String currentFwVersion{"2.0.0"};
 String host = "raw.githubusercontent.com";
 const int hostPort = 443;
-String fwVersionURL = "/e-tinkers/CloudOTA/master/fw_version.txt";
-String fwBinaryURL = "/e-tinkers/CloudOTA/master/firmware";
+String fwVersionURL = "/Relay_controller/fw_version.txt";
+String fwBinaryURL = "/Relay_controller/master/firmware";
 // -------------------------------------------------------------- //
 
 // This is the root CA for github
